@@ -1,0 +1,40 @@
+html{
+    background-color: black;
+}
+.card{
+    background: white;
+    transform: translateY(20%);
+    border-radius: 10px;
+    width: 90%;
+    height: auto;
+    display: grid;
+    place-items: center;
+    margin: auto;
+    grid-gap: 0px;
+}
+h4{
+    color: #686871;
+}
+img{
+    border-radius: 10px;
+    border: 1px inset black;
+}
+hr{
+    width: 20%;   
+}
+button{    
+    box-sizing: border-box;
+    place-items: center;
+    width: 90%;
+    height: 60px;
+    background: #00abff;
+    border: 1px groove black;
+    border-radius: 5px;
+}
+#text{
+    transform: translateY(-15px);
+}
+a{
+    text-decoration: none;
+    color: #2d2f43;
+}
