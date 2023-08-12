@@ -3,12 +3,8 @@
   width: 100%;
 }
 
-@font-face{ 
-     font-family: Daltd; 
-     src: url('DALimited-Font.ttf'); 
- } 
  *{ 
-     font-family: Daltd, arial; 
+     font-family: arial; 
  } 
  #descri{
      color: #6c6c6c;
